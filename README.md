@@ -1,4 +1,4 @@
-# amru
+# Nasa Hackathon - Project AMRU
 Autonomous Micromaneuverable Recreational Unit
 
 <strong>Why?</strong><br />
